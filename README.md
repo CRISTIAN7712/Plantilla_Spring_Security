@@ -251,3 +251,12 @@ se implementan según las necesidades del proyecto que la utilice.
 | SKU repetido o stock insuficiente | Revisar catálogo y existencias; no repetir una venta sin consultar su historial |
 
 ![NEXO: vista previa con datos de prueba](Frontend/vista-previa.png)
+
+---
+## 👨‍💻 Autor
+
+**Ing. Cristian Díaz**
+
+<p align="center">
+  <img width="300" src="https://i.imgur.com/a7YBcsp.png">
+</p>
